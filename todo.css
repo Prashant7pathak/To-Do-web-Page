@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color:aliceblue ;
+}
+
+input{
+    width: 300px;
+    height: 25px;
+}
+
+button:hover{
+    background-color:greenyellow;
+    color: brown;
+    cursor: pointer;
+}
+ul{
+    text-align: left;
+}
+
+.delete{
+    margin-left: 50px;
+}
+
+.delete:hover{
+    background-color:red;
+    color: white;
+    cursor: pointer;
+}
